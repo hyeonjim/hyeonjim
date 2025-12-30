@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/87580b8d-fccf-41e8-9c62-3f8763dec744" width="500" height="1200" />
+  <img src="https://github.com/user-attachments/assets/87580b8d-fccf-41e8-9c62-3f8763dec744" width="700" height="1500" />
 </div>
 <!--
 **hyeonjim/hyeonjim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
