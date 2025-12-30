@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjim&show_icons=true&theme=radical)
+![hyeonjim's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hyeonjim&show_icons=true&theme=radical&cache_seconds=21600)
