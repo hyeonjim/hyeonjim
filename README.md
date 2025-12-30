@@ -59,4 +59,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![hyeonjim's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hyeonjim&show_icons=true&theme=radical&cache_seconds=21600)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hyeonjim&theme=radical&hide_border=true" height="165" />
+</div>
+
