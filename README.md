@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
-<br>
 
 <!--내용 부분-->
 <h2 align="center">✨ Tech Stack ✨</h2>
@@ -62,3 +60,5 @@ Here are some ideas to get you started:
 <div align="center">
 
 </div>
+
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjim&show_icons=true&theme=radical)
