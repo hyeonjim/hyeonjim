@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/87580b8d-fccf-41e8-9c62-3f8763dec744" width="700" height="1500" />
+  <img src="https://github.com/user-attachments/assets/87580b8d-fccf-41e8-9c62-3f8763dec744" width="600" height="1500" />
 </div>
 <!--
 **hyeonjim/hyeonjim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+<br>
+
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -34,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h2 align="center">📚 Studying 📚</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -44,7 +47,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h2 align="center">🛠 Tools 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
