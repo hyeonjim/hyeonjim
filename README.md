@@ -56,9 +56,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-
-</div>
+<br>
+<br>
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjim&show_icons=true&theme=radical)
