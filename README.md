@@ -72,5 +72,5 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=hyeonjim&theme=radical&hide_border=true" height="165" />
 </div>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji,)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjim)](https://github.com/anuraghazra/github-readme-stats)
 
