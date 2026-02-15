@@ -68,6 +68,9 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
   <img src="https://streak-stats.demolab.com?user=hyeonjim&theme=radical&hide_border=true" height="165" />
 </div>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji,)](https://github.com/anuraghazra/github-readme-stats)
 
