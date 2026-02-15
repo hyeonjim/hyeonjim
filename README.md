@@ -72,6 +72,7 @@ Here are some ideas to get you started:
   <br/>
   <img src="https://streak-stats.demolab.com?user=hyeonjim&theme=radical&hide_border=true" height="165" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjim&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjim&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=" />
+
 </div>
 
