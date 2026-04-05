@@ -76,3 +76,10 @@ Here are some ideas to get you started:
 
 </div>
 
+<br>
+<br>
+
+## 🎉 Awards & Research
+
+- 🏆 삼성 청년 SW·AI 아카데미 특화 프로젝트 우수상 / 부울경 1등 (2026.04.01)
+
