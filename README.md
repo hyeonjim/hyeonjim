@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 
 <!--내용 부분-->
-<h2 align="center">✨ Tech Stack ✨</h2>
+<h2 align="center">✨ Tech Stack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h2 align="center">📚 Studying 📚</h2>
+<h2 align="center">📚 Studying</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<h2 align="center">🛠 Tools 🛠</h2>
+<h2 align="center">🛠 Tools</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 
 ## 🎉 Awards & Research
 
-- 🏆 삼성 청년 SW·AI 아카데미 특화 프로젝트 우수상 / 부울경 1등 (2026.04.01)
+- 🏆 삼성 청년 SW·AI 아카데미 특화 프로젝트 우수상 / 부울경 1등 (2026.04)
+- 🏆 삼성 청년 SW·AI 아카데미 자율 프로젝트 우수상 / 부울경 2등 (2026.05)
 
 <br>
 <br>
