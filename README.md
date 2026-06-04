@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ## 🎉 Awards & Research
 
 - 🏆 삼성 청년 SW·AI 아카데미 특화 프로젝트 우수상 / 부울경 1등 (2026.04)
-- 🏆 삼성 청년 SW·AI 아카데미 자율 프로젝트 우수상 / 부울경 2등 (2026.05)
+- 🏆 삼성 청년 SW·AI 아카데미 자율 프로젝트 우수상 / 부울경 2등 (2026.06)
 
 <br>
 <br>
