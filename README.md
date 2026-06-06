@@ -45,24 +45,35 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
  
-<br>
+---
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
 ## ⚙️ Projects
- 
-| 프로젝트 |설명 |
+| 프로젝트 | 설명 |
 |---|---|
-| [HappyNurse](https://github.com/hyeonjim/Happynurse) | 간호사 업무 자동화 멀티 디바이스 시스템|
-| [PIVIEW](https://github.com/hyeonjim/Piview)| AI 피부 진단부터 화장품 추천·루틴 관리까지 스마트 뷰티 플랫폼 |
+| [HappyNurse](https://github.com/hyeonjim/HappyNurse) | 간호사 업무 자동화 멀티 디바이스 시스템 |
+| [PIVIEW](https://github.com/hyeonjim/PiView) | AI 피부 진단부터 화장품 추천·루틴 관리까지 스마트 뷰티 플랫폼 |
 | [Coordinator](https://github.com/hyeonjim/Coordinator) | 실시간 동시 코드 편집 협업 툴 |
-| [F!NK](https://github.com/hyeonjim/Fink) | AI 기반 금융 상품 추천 서비스 |
+| [F!NK](https://github.com/hyeonjim/FINK) | AI 기반 금융 상품 추천 서비스 |
  
-<br>
-
+</td>
+    <td valign="top" width="40%">
+      
 ## 🏆 Awards
-
-🥇 삼성 청년 SW·AI 아카데미 14기 특화 프로젝트: **우수상 / 부울경 1등** (2026.04)
-
-🥈 삼성 청년 SW·AI 아카데미 14기 자율 프로젝트: **우수상 / 부울경 2등** (2026.06)
+ 
+🥇 삼성 청년 SW·AI 아카데미 14기 특화 프로젝트<br/>
+**우수상 / 부울경 1등** (2026.04)
+ 
+<br/>
+🥈 삼성 청년 SW·AI 아카데미 14기 자율 프로젝트<br/>
+**우수상 / 부울경 2등** (2026.06)
+ 
+</td>
+  </tr>
+</table>
 
 <br>
 
