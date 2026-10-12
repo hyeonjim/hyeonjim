@@ -45,8 +45,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
- 
----
+<br/>
 
 <table>
   <tr>
@@ -68,19 +67,13 @@
 🥇 삼성 청년 SW·AI 아카데미 14기 특화 프로젝트<br/>
 **우수상 / 부울경 1등** (2026.04)
  
-<br/>
+
 🥈 삼성 청년 SW·AI 아카데미 14기 자율 프로젝트<br/>
 **우수상 / 부울경 2등** (2026.06)
  
 </td>
   </tr>
 </table>
-
-<br>
-
-## 📫 Contact
-
-![Email](https://img.shields.io/badge/hyeonjim@icloud.com-007AFF?style=flat-square&logo=apple&logoColor=white)
 
 <br>
 
